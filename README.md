@@ -36,5 +36,7 @@ Built to provide a smooth shopping experience for customers and easy product man
   Efficient state management in React for cart handling, order updates, and UI responsiveness.
 
 ---
+# Deployed Link
+https://srivenkateswarageneralstores.netlify.app/
 
  
